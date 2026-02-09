@@ -3,8 +3,7 @@
 An interactive Streamlit dashboard that helps identify **persuadable customers** (customers who are more likely to make a repeat purchase *because* they received a voucher), so marketing spend is focused where it actually creates incremental impact.
 
 ## Live Demo
-Add your Streamlit link here:
-- https://ayesha-shoaib-olist-uplift-engine.streamlit.app
+Olist Uplift Engine Dashboard [https://ayesha-shoaib-olist-uplift-engine.streamlit.app/]
 
 ## What this does
 This project uses uplift modeling to compare multiple meta-learners and supports a simple business simulation.
